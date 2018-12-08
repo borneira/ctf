@@ -5,3 +5,7 @@ stegsolve
 steghide
 hideme
 ctf-tools
+exiftool
+binwalk
+foremost
+strings
